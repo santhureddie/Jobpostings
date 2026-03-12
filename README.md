@@ -1,5 +1,7 @@
 # Job Postings Career Pages
 
+> Note: Some Markdown viewers ignore `target="_blank"`. If that happens, open [career-pages.html](career-pages.html) in your browser to get guaranteed new-tab behavior (Ctrl/Cmd+Click equivalent).
+
 | Company | Career Site | Location |
 |---|---|---|
 | Apple | <a href="https://jobs.apple.com/" target="_blank" rel="noopener noreferrer">https://jobs.apple.com/</a> | Austin, Texas |
